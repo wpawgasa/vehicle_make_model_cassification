@@ -1,2 +1,16 @@
-# vehicle_make_model_cassification
-Classification of vehicle make and model
+# Vehicle's Make and Model Classification
+Classification of vehicle make and model using Convolutional Neural Networks.
+
+### Background
+
+### Requirement
+
+### Installation
+
+### Prepare Dataset
+
+### Training
+
+### Fine-tuning
+
+### Pretrained Models
